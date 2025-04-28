@@ -1,0 +1,60 @@
+.painel {
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: rgb(253, 46, 184);
+
+}
+
+#sim {
+    height: 40px;
+    width: 60px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: -70px;
+}
+
+#sim:hover {
+
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+
+#nao {
+    position: absolute;
+    height: 40px;
+    width: 60px;
+    background-color:black;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-left: 10px;
+}
+
+#nao:hover {
+
+
+    cursor: pointer;
+
+}
+
+img {
+    position: relative;
+    left: 50px;
+    margin: 0 0 20px 0;
+    width: 80%;
+    height: 50%;
+}
