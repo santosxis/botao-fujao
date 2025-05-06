@@ -11,6 +11,15 @@ A proposta é apresentar um cartão interativo.
 
 </p>
 
+##  Resultado:
+
+
+
+https://github.com/user-attachments/assets/d3993b59-5657-4d7e-87f2-c19b8db681ac
+
+
+
+<br>
 ## 🛠 Tecnologias Utilizadas
 
 - HTML5
